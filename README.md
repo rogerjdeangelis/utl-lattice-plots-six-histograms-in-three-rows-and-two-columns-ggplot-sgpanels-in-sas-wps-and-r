@@ -3,6 +3,15 @@ Lattice plots six histograms in three rows and two columns spanels in sas wps an
     %let pgm=utl-lattice-plots-six-histograms-in-three-rows-and-two-columns-ggplot-sgpanels-in-sas-wps-and-r;
 
     Lattice plots six histograms in three rows and two columns spanels in sas wps and r
+    
+    https://tinyurl.com/bdevm7f8
+    https://github.com/rogerjdeangelis/utl-lattice-plots-six-histograms-in-three-rows-and-two-columns-ggplot-sgpanels-in-sas-wps-and-r/blob/main/spider_r.png
+
+    https://tinyurl.com/35krptww
+    https://github.com/rogerjdeangelis/utl-lattice-plots-six-histograms-in-three-rows-and-two-columns-ggplot-sgpanels-in-sas-wps-and-r/blob/main/spider_wps.png
+
+    https://tinyurl.com/yz9rmetc
+    https://github.com/rogerjdeangelis/utl-lattice-plots-six-histograms-in-three-rows-and-two-columns-ggplot-sgpanels-in-sas-wps-and-r/blob/main/spider_sas.png
 
      Solutions
 
